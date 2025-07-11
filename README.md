@@ -1,6 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #1e1e2f, #2a2a40); padding: 20px; border-radius: 20px; box-shadow: 0 0 30px rgba(0,0,0,0.5);">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Hey%20I'm%20Anuj%20👋&fontColor=ffffff&fontSize=38&desc=Android%20Dev%20%7C%20ECE%20Undergrad%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Hey%20I'm%20Anuj%20&fontColor=ffffff&fontSize=38&desc=Android%20Dev%20%7C%20ECE%20Undergrad%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65&animation=twinkling" />
 
 
 
