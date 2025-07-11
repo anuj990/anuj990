@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋, I'm Anuj</h1>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj.;Android+Dev+%7C+CP+Grinder+%7C+ECE+%40+IIITDM+Jabalpur;Jetpack+Compose+%2B+Firebase+Lover+%F0%9F%92%AB;Let's+build+something+cool+!+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
 <h3 align="center">🚀 Android Developer | 👨‍💻 CP Enthusiast | 🇮🇳 Based in India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuj990&label=Profile%20views&color=0e75b6&style=flat" alt="anuj990" />
+  <img src="https://komarev.com/ghpvc/?username=anuj990&label=Profile+views&color=0e75b6&style=flat" alt="anuj990" />
 </p>
 
 ---
 
-🌟 **About Me**
+### 🌟 About Me
 
-- 🔭 Currently building [BSOC'25 Project - Nudj](https://github.com/anuj990/Nudj)
-- 🚧 Crafting the productivity beast: [Grind Bro](https://github.com/anuj990/GrindBro)
-- 💡 Learning daily: `Kotlin`, `Firebase`, `C++`, `Python`
-- 🧠 Competitive Programming grinder on [Codeforces](https://codeforces.com/profile/anuj_99.0) 🔪
-- 📫 Reach out: **aanuj8619@gmail.com**
-- 🎯 Focused on **Jetpack Compose, Firebase backend, and CP domination**
+
+🎓 B.Tech ECE @ IIITDM Jabalpur  
+📱 Android Dev — Jetpack Compose | MVVM | Firebase  
+🧠 Competitive Programmer (C++ on Codeforces: anuj_99.0)  
+🚀 BSOC'25 Contributor: Nudj  
+🧩 Building: GrindBro — a productivity app for devs  
+🛠️ Currently learning: Kotlin, Firebase, Python, C++  
+📫 Reach me at: aanuj8619@gmail.com  
+🎯 Vision: Ship quality apps + rank up in CP battles
 
 ---
 
