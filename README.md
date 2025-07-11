@@ -18,13 +18,32 @@
 
 ---
 
-<h3 align="center">🤝 Let's Connect</h3>
+<h3 align="center">🤝 Connect with me</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/anuj990" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://instagram.com/anuj_99.0" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a>
-  <a href="https://codeforces.com/profile/anuj_99.0" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" width="30" height="30"/></a>
-  <a href="https://discord.gg/bunny_9_11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" width="30" height="30"/></a>
+  <a href="https://linkedin.com/in/anuj990" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/anuj_99.0" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/anuj_99.0" target="_blank" title="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/bunny_9_11" target="_blank" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="mailto:aanuj8619@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
+
+
 
 ---
 
