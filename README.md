@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/anuj990" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/anuj_99.0" target="_blank" title="Instagram">
+  <a href="https://instagram.com/sudo_anuj" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://codeforces.com/profile/anuj_99.0" target="_blank" title="Codeforces">
