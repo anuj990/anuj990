@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">🚀 Android Developer | 👨‍💻 CP Enthusiast | 🇮🇳 Based in India</h3>
+<h3 align="center">🚀 Android Developer | 👨‍💻 CP Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuj990&label=Profile+views&color=0e75b6&style=flat" alt="anuj990" />
