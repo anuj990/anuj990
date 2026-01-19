@@ -57,14 +57,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuj990&theme=onedark&column=7" alt="Trophies" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -72,16 +64,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj990&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
-
----
-
-### 🚀 Featured Projects
-
-- 📱 [GrindBro](https://github.com/anuj990/GrindBro) – A productivity beast made for devs & students
 
 ---
 
