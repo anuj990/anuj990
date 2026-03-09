@@ -20,7 +20,6 @@
 - 🎓 B.Tech ECE @ IIITDM Jabalpur  
 - 📱 Android Dev — Jetpack Compose | MVVM | Firebase  
 - 🧠 Competitive Programmer (C++ on Codeforces: [anuj_99.0](https://codeforces.com/profile/anuj_99.0))  
-- 🧩 Currently building: [GrindBro](https://github.com/anuj990/GrindBro) — a productivity app for devs  
 - 📚 Learning daily: Kotlin, Firebase, Python, C++  
 - 📫 Contact me at: **aanuj8619@gmail.com**  
 
