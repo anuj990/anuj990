@@ -61,8 +61,9 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuj990&show_icons=true&theme=normal" />
 </p>
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 
 <p align="center">  <img src="game.gif" /> </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
