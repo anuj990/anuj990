@@ -59,7 +59,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuj990&show_icons=true&theme=normal" />
+  <img src="stats.svg" />
 </p>
 
 
